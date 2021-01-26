@@ -2,7 +2,7 @@
 
 # umi-plugin-antd-theme-ng
 
-[![NPM version](https://img.shields.io/npm/v/umi-plugin-antd-theme-ng.svg?style=flat)](https://npmjs.org/package/umi-plugin-antd-theme-ng) [![NPM downloads](http://img.shields.io/npm/dm/umi-plugin-antd-theme.svg?style=flat)](https://npmjs.org/package/umi-plugin-antd-theme)
+[![NPM version](https://img.shields.io/npm/v/umi-plugin-antd-theme-ng.svg?style=flat)](https://npmjs.org/package/umi-plugin-antd-theme-ng) [![NPM downloads](http://img.shields.io/npm/dm/umi-plugin-antd-theme-ng.svg?style=flat)](https://npmjs.org/package/umi-plugin-antd-theme-ng)
 
 ## Usage
 
