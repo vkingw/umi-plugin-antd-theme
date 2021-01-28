@@ -6,7 +6,7 @@
     "name": "vkingw",
     "email": "alfa.king+git@gmail.com"
   },
-  "repository": "https://github.com/vkingw/umi-plugin-antd-theme.git",
+  "repository": "https://github.com/vkingw/umi-plugin-antd-theme-ng.git",
   "main": "lib/index.js",
   "scripts": {
     "start": "CURRENT_PROJECT=example umi ui",
@@ -16,7 +16,7 @@
     "@types/node": "^12.12.14",
     "father-build": "^1.8.0",
     "np": "^5.0.3",
-    "umi": "^3.0.18"
+    "umi": "^3.3.7"
   },
   "files": [
     "dist",
@@ -26,7 +26,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "antd-pro-merge-less": "^3.0.0",
+    "antd-pro-merge-less-ng": "^3.0.12",
     "rimraf": "^3.0.0",
     "serve-static": "^1.14.1",
     "slash2": "^2.0.0"
